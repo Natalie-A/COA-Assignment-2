@@ -1,0 +1,4 @@
+﻿  ConvertFloatToBinaryFloat.cpp
+C:\Users\25472\source\repos\ConvertFloatToBinaryFloat\ConvertFloatToBinaryFloat\ConvertFloatToBinaryFloat.cpp(13,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\25472\source\repos\ConvertFloatToBinaryFloat\ConvertFloatToBinaryFloat\ConvertFloatToBinaryFloat.cpp(31,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConvertFloatToBinaryFloat.vcxproj -> C:\Users\25472\source\repos\ConvertFloatToBinaryFloat\Debug\ConvertFloatToBinaryFloat.exe
